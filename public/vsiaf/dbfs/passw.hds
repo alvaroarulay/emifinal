@@ -1,0 +1,9 @@
+[Columns settings]
+dbgr.USUARIO=0,64,0,1,0,7,0
+dbgr.COMPLETO=1,244,0,1,0,7,0
+dbgr.DES=2,304,0,1,0,7,0
+dbgr.PSW=3,94,0,1,0,7,0
+dbgr.TIPO=4,34,0,1,0,7,0
+dbgr.GRUPO=5,52,0,1,0,7,0
+dbgr.FEULT=6,64,0,1,0,7,0
+dbgr.USUAR=7,52,0,1,0,7,0

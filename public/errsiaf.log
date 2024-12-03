@@ -1,0 +1,501 @@
+
+ERROR en  17:28:08   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL1.CTLICON_ASSIGN
+   linea:          13   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1426   Código de error OLE 0x80030009: Error de puntero no válido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:09   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL1.CTLICON_ASSIGN
+   linea:          14   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1925   _OICON es un miembro desconocido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:11   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL2.CTLICON_ASSIGN
+   linea:          13   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1426   Código de error OLE 0x80030009: Error de puntero no válido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:12   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL2.CTLICON_ASSIGN
+   linea:          14   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1925   _OICON es un miembro desconocido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:13   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL3.CTLICON_ASSIGN
+   linea:          13   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1426   Código de error OLE 0x80030009: Error de puntero no válido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:14   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL3.CTLICON_ASSIGN
+   linea:          14   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1925   _OICON es un miembro desconocido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:15   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL4.CTLICON_ASSIGN
+   linea:          13   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1426   Código de error OLE 0x80030009: Error de puntero no válido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:16   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL4.CTLICON_ASSIGN
+   linea:          14   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1925   _OICON es un miembro desconocido.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:26:43   28/05/2024
+programa:  FRSMAIN1.PRINCIPAL.PAGEFRAME1.PAGE1.CMGCALCULA36.VALID
+   linea:           6   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          41   El archivo memo c:\laragon\www\dbfprueba\public\dbfs\actual.fpt no existe o no es válido.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:44   28/05/2024
+programa:  REINDEX2
+   linea:          17   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          41   El archivo memo c:\laragon\www\dbfprueba\public\dbfs\actual.fpt no existe o no es válido.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:46   28/05/2024
+programa:  OPENDB
+   linea:          22   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          41   El archivo memo c:\laragon\www\dbfprueba\public\dbfs\actual.fpt no existe o no es válido.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:47   28/05/2024
+programa:  OPENDB
+   linea:          94   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          13   No se encuentra el alias 'ACTUAL'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:48   28/05/2024
+programa:  SETRELATIONS
+   linea:         103   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          13   No se encuentra el alias 'ACTUAL'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:49   28/05/2024
+programa:  SETRELATIONS
+   linea:         105   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          12   No se encuentra la variable 'CODCONT'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:50   28/05/2024
+programa:  SETRELATIONS
+   linea:         108   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          12   No se encuentra la variable 'CODAUX'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:51   28/05/2024
+programa:  SETRELATIONS
+   linea:         111   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          12   No se encuentra la variable 'CODOFIC'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:52   28/05/2024
+programa:  SETRELATIONS
+   linea:         114   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          12   No se encuentra la variable 'CODRESP'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:53   28/05/2024
+programa:  SETRELATIONS
+   linea:         117   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          12   No se encuentra la variable 'DIA'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:54   28/05/2024
+programa:  SETRELATIONS
+   linea:         120   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          12   No se encuentra la variable 'CODIGO'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:55   28/05/2024
+programa:  SETRELATIONS
+   linea:         126   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          13   No se encuentra el alias 'ACTUAL'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:56   28/05/2024
+programa:  FRSCALCULA1.CALCULA.LOAD
+   linea:          64   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          13   No se encuentra el alias 'ACTUAL'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:57   28/05/2024
+programa:  FRSCALCULA1.CALCULA.LOAD
+   linea:         109   str(rep13.codofic)+str(rep13.codresp)
+
+  numero:          13   No se encuentra el alias 'ACTUAL'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  20:26:59   28/05/2024
+programa:  CALCULA
+   linea:           9   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          41   El archivo memo c:\laragon\www\dbfprueba\public\dbfs\actual.fpt no existe o no es válido.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:01   28/05/2024
+programa:  FRSMAIN1.PRINCIPAL.PAGEFRAME1.PAGE1.CMGCALCULA36.VALID
+   linea:           6   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          41   El archivo memo c:\laragon\www\dbfprueba\public\dbfs\actual.fpt no existe o no es válido.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:03   28/05/2024
+programa:  REINDEX2
+   linea:          17   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          41   El archivo memo c:\laragon\www\dbfprueba\public\dbfs\actual.fpt no existe o no es válido.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:04   28/05/2024
+programa:  OPENDB
+   linea:          22   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          41   El archivo memo c:\laragon\www\dbfprueba\public\dbfs\actual.fpt no existe o no es válido.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:05   28/05/2024
+programa:  OPENDB
+   linea:          94   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          13   No se encuentra el alias 'ACTUAL'.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:06   28/05/2024
+programa:  SETRELATIONS
+   linea:         103   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          13   No se encuentra el alias 'ACTUAL'.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:07   28/05/2024
+programa:  SETRELATIONS
+   linea:         105   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          12   No se encuentra la variable 'CODCONT'.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:08   28/05/2024
+programa:  SETRELATIONS
+   linea:         108   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          12   No se encuentra la variable 'CODAUX'.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:09   28/05/2024
+programa:  SETRELATIONS
+   linea:         111   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          12   No se encuentra la variable 'CODOFIC'.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:10   28/05/2024
+programa:  SETRELATIONS
+   linea:         114   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          12   No se encuentra la variable 'CODRESP'.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:11   28/05/2024
+programa:  SETRELATIONS
+   linea:         117   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          12   No se encuentra la variable 'DIA'.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:13   28/05/2024
+programa:  SETRELATIONS
+   linea:         120   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          12   No se encuentra la variable 'CODIGO'.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:14   28/05/2024
+programa:  SETRELATIONS
+   linea:         126   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          13   No se encuentra el alias 'ACTUAL'.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:15   28/05/2024
+programa:  FRSCALCULA1.CALCULA.LOAD
+   linea:          64   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          13   No se encuentra el alias 'ACTUAL'.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:16   28/05/2024
+programa:  FRSCALCULA1.CALCULA.LOAD
+   linea:         109   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          13   No se encuentra el alias 'ACTUAL'.
+variable:  
+
+
+=================================================================
+
+ERROR en  20:27:17   28/05/2024
+programa:  CALCULA
+   linea:           9   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          41   El archivo memo c:\laragon\www\dbfprueba\public\dbfs\actual.fpt no existe o no es válido.
+variable:  
+
+
+=================================================================
+
+ERROR en  23:16:29   28/05/2024
+programa:  REINDEX2
+   linea:          17   SELECT codigo FROM C:\LARAGON\WWW\DBFPRUEBA\PUBLIC\\DBFS\actual where unidad = m.unidadinst and api_estado = 3 and not deleted() ORDER BY 1 INTO CURSOR curActivos
+
+  numero:          41   El archivo memo c:\laragon\www\dbfprueba\public\dbfs\actual.fpt no existe o no es válido.
+variable:  SALIR
+
+
+=================================================================
+
+ERROR en  10:52:42   03/06/2024
+programa:  FRSMAIN1.PRINCIPAL.LOAD
+   linea:         347   DO c:\vsiaf\vsiaf.exe
+
+  numero:           1   El archivo 'config.dbf' no existe.
+variable:  
+
+
+=================================================================
+
+ERROR en  10:52:43   03/06/2024
+programa:  FRSMAIN1.PRINCIPAL.LOAD
+   linea:         354   DO c:\vsiaf\vsiaf.exe
+
+  numero:          11   El valor, tipo o número de argumentos no es válido para la función.
+variable:  
+
+
+=================================================================
+
+ERROR en  10:52:53   03/06/2024
+programa:  FRSMAIN1.PRINCIPAL.LOAD
+   linea:         371   DO c:\vsiaf\vsiaf.exe
+
+  numero:           1   El archivo 'c:\vsiaf\dbfs\foxuser.dbf' no existe.
+variable:  
+
+
+=================================================================
+
+ERROR en  10:52:55   03/06/2024
+programa:  FRSMAIN1.PRINCIPAL.LOAD
+   linea:         372   DO c:\vsiaf\vsiaf.exe
+
+  numero:          13   No se encuentra el alias 'AUXPASS'.
+variable:  
+
+
+=================================================================
+
+ERROR en  10:53:00   03/06/2024
+programa:  FRSMAIN1.PRINCIPAL.LOAD
+   linea:         379   DO c:\vsiaf\vsiaf.exe
+
+  numero:         107   Incompatibilidad entre el tipo de operador y el tipo de operando.
+variable:  
+
+
+=================================================================
+
+ERROR en  10:53:04   03/06/2024
+programa:  FRSMAIN1.READWHEN
+   linea:           3   DO c:\vsiaf\vsiaf.exe
+
+  numero:         107   Incompatibilidad entre el tipo de operador y el tipo de operando.
+variable:  
+
+
+=================================================================
+
+ERROR en  10:53:09   03/06/2024
+programa:  INSTALL_ENT.LOAD
+   linea:          10   DO c:\vsiaf\vsiaf.exe
+
+  numero:           1   El archivo 'entidades.dbf' no existe.
+variable:  
+
+
+=================================================================
+
+ERROR en  10:53:10   03/06/2024
+programa:  FRSMAIN1.READWHEN
+   linea:           5   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1130   No se encuentra la frase 'campo'.
+variable:  
+
+
+=================================================================
+
+ERROR en  10:53:16   03/06/2024
+programa:  FRSMAIN1.READWHEN
+   linea:           9   DO c:\vsiaf\vsiaf.exe
+
+  numero:           1   El archivo 'config.dbf' no existe.
+variable:  
+
+
+=================================================================
+
+ERROR en  10:53:17   03/06/2024
+programa:  FRSMAIN1.READWHEN
+   linea:          13   DO c:\vsiaf\vsiaf.exe
+
+  numero:          11   El valor, tipo o número de argumentos no es válido para la función.
+variable:  
+
+
+=================================================================
+
+ERROR en  10:53:25   03/06/2024
+programa:  TC
+   linea:          11   DO c:\vsiaf\vsiaf.exe
+
+  numero:           1   El archivo 'config.dbf' no existe.
+variable:  
+
+
+=================================================================
+

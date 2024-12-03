@@ -1,0 +1,61 @@
+
+ERROR en  10:54:58   03/06/2024
+programa:  OPENDB
+   linea:          22   DO c:\vsiaf\vsiaf.exe
+
+  numero:          26   La tabla no tiene ningún orden de índice establecido.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  11:18:53   03/06/2024
+programa:  OPENDB
+   linea:          22   DO c:\vsiaf\vsiaf.exe
+
+  numero:          26   La tabla no tiene ningún orden de índice establecido.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  12:09:33   03/06/2024
+programa:  OPENDB
+   linea:          41   DO c:\vsiaf\vsiaf.exe
+
+  numero:          26   La tabla no tiene ningún orden de índice establecido.
+variable:  ACTIVIFIJO
+
+
+=================================================================
+
+ERROR en  12:09:34   03/06/2024
+programa:  SETRELATIONS
+   linea:         183   DO c:\vsiaf\vsiaf.exe
+
+  numero:          26   La tabla no tiene ningún orden de índice establecido.
+variable:  ACTIVIFIJO
+
+
+=================================================================
+
+ERROR en  14:15:00   03/06/2024
+programa:  OPENDB
+   linea:          41   DO c:\vsiaf\vsiaf.exe
+
+  numero:          26   La tabla no tiene ningún orden de índice establecido.
+variable:  ACTIVIFIJO
+
+
+=================================================================
+
+ERROR en  14:15:01   03/06/2024
+programa:  SETRELATIONS
+   linea:         183   DO c:\vsiaf\vsiaf.exe
+
+  numero:          26   La tabla no tiene ningún orden de índice establecido.
+variable:  ACTIVIFIJO
+
+
+=================================================================
+
